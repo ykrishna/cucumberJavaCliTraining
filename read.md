@@ -107,7 +107,7 @@ you will see following output:
     0m0.094s
 
 
-_glue option always looks for package name instead og path to step defs_
+_glue option always looks for package name instead of path to step defs_
 
 
       
